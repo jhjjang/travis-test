@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 bbbb
 cccc
 ddd
+=======
+>>>>>>> parent of 4da4a97... test2
